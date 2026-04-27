@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<additional>
+  <inductionLoop id="A1_E1_0" lane="B1A1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_A1_0.xml" />
+  <inductionLoop id="A1_E1_1" lane="A2A1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_A1_1.xml" />
+  <inductionLoop id="A1_E1_2" lane="A2A1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_A1_2.xml" />
+  <inductionLoop id="A1_E1_3" lane="A0A1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_A1_3.xml" />
+  <inductionLoop id="A1_E1_4" lane="A0A1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_A1_4.xml" />
+  <inductionLoop id="A1_E1_5" lane="B1A1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_A1_5.xml" />
+  <inductionLoop id="B0_E1_0" lane="B1B0_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B0_0.xml" />
+  <inductionLoop id="B0_E1_1" lane="B1B0_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B0_1.xml" />
+  <inductionLoop id="B0_E1_2" lane="A0B0_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B0_2.xml" />
+  <inductionLoop id="B0_E1_3" lane="A0B0_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B0_3.xml" />
+  <inductionLoop id="B0_E1_4" lane="C0B0_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B0_4.xml" />
+  <inductionLoop id="B0_E1_5" lane="C0B0_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B0_5.xml" />
+  <inductionLoop id="B1_E1_0" lane="B2B1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B1_0.xml" />
+  <inductionLoop id="B1_E1_1" lane="C1B1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B1_1.xml" />
+  <inductionLoop id="B1_E1_2" lane="C1B1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B1_2.xml" />
+  <inductionLoop id="B1_E1_3" lane="B2B1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B1_3.xml" />
+  <inductionLoop id="B1_E1_4" lane="B0B1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B1_4.xml" />
+  <inductionLoop id="B1_E1_5" lane="B0B1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B1_5.xml" />
+  <inductionLoop id="B1_E1_6" lane="A1B1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B1_6.xml" />
+  <inductionLoop id="B1_E1_7" lane="A1B1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B1_7.xml" />
+  <inductionLoop id="B2_E1_0" lane="A2B2_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B2_0.xml" />
+  <inductionLoop id="B2_E1_1" lane="A2B2_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B2_1.xml" />
+  <inductionLoop id="B2_E1_2" lane="B1B2_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B2_2.xml" />
+  <inductionLoop id="B2_E1_3" lane="C2B2_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B2_3.xml" />
+  <inductionLoop id="B2_E1_4" lane="B1B2_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B2_4.xml" />
+  <inductionLoop id="B2_E1_5" lane="C2B2_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_B2_5.xml" />
+  <inductionLoop id="C1_E1_0" lane="B1C1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_C1_0.xml" />
+  <inductionLoop id="C1_E1_1" lane="C0C1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_C1_1.xml" />
+  <inductionLoop id="C1_E1_2" lane="C0C1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_C1_2.xml" />
+  <inductionLoop id="C1_E1_3" lane="B1C1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_C1_3.xml" />
+  <inductionLoop id="C1_E1_4" lane="C2C1_1" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_C1_4.xml" />
+  <inductionLoop id="C1_E1_5" lane="C2C1_0" pos="-10" period="1" file="gridsData/fazes_g20r_20/dataFor_10_vehicles/detector_C1_5.xml" />
+</additional>
