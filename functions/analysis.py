@@ -65,12 +65,9 @@ def plots_mean_traffic(durations, vehicles, pathToSave):
             df = pd.read_csv(data_folder + getCSVFileName(cur_count))
             duration_mean_array.append(df.iloc[0].mean())
         new_array = np.array(duration_mean_array)
-        # Create a temporary DataFrame from the array and concatenate
-        # print(len(dfAll.columns))
-        # print(len(np.insert(new_array, 0, duration)))
-        # print(pd.DataFrame([np.insert(new_array, 0, duration)], columns=dfAll.columns))
-        dfAll = pd.concat([dfAll, pd.DataFrame([np.insert(new_array, 0, duration)], columns=dfAll.columns)], ignore_index=True)
+        dfAll = pd.concat([dfAll, pd.DataFrame([np.insert(new_array, 0, duration)], columns=dfAll.columns)],
+                           ignore_index=True)
     print(dfAll)
-    dfAll.set_index('duration').plot(ylabel='Mean машин, проехавших через светофор', xlabel='Продолжительноссть сигнала светофора', marker='o')
+    dfAll.set_index('duration').plot(ylabel='Mean машин, проехавших через светофор', xlabel='Продолжительность сигнала светофора', marker='o')
     plt.savefig(pathToSave+'/vehicles_passed_mean.png', dpi=600)
     plt.show()
