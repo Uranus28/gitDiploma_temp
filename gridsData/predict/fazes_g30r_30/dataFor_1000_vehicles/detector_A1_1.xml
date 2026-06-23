@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2026-06-19T15:55:54.384909+03:00 by Eclipse SUMO sumo 1.26.0
+<!-- generated on 2026-06-21T18:38:04.572074+03:00 by Eclipse SUMO sumo 1.26.0
 <sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
@@ -23,7 +23,7 @@
     </fcd_device>
 
     <traci_server>
-        <remote-port value="49675"/>
+        <remote-port value="63938"/>
     </traci_server>
 
 </sumoConfiguration>
@@ -645,12 +645,12 @@
     <interval begin="612.00" end="613.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="613.00" end="614.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="614.00" end="615.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="615.00" end="616.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="93.33" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="615.00" end="616.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="94.84" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="616.00" end="617.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="617.00" end="618.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="60.48" speed="1.97" harmonicMeanSpeed="1.97" length="5.00" nVehEntered="0"/>
+    <interval begin="617.00" end="618.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="18.58" speed="2.34" harmonicMeanSpeed="2.34" length="5.00" nVehEntered="0"/>
     <interval begin="618.00" end="619.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="619.00" end="620.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="620.00" end="621.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="48.99" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="620.00" end="621.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="58.83" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="621.00" end="622.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="622.00" end="623.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="623.00" end="624.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -662,15 +662,15 @@
     <interval begin="629.00" end="630.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="630.00" end="631.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="631.00" end="632.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="632.00" end="633.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="90.80" speed="0.40" harmonicMeanSpeed="0.40" length="5.00" nVehEntered="0"/>
+    <interval begin="632.00" end="633.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="64.66" speed="0.41" harmonicMeanSpeed="0.41" length="5.00" nVehEntered="0"/>
     <interval begin="633.00" end="634.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="634.00" end="635.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="635.00" end="636.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="636.00" end="637.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="637.00" end="638.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="638.00" end="639.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="639.00" end="640.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="640.00" end="641.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="85.58" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="634.00" end="635.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="38.50" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="635.00" end="636.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="636.00" end="637.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="637.00" end="638.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="638.00" end="639.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="639.00" end="640.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="640.00" end="641.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="641.00" end="642.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="642.00" end="643.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="643.00" end="644.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -688,13 +688,13 @@
     <interval begin="655.00" end="656.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="656.00" end="657.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="657.00" end="658.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="658.00" end="659.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="30.73" speed="0.28" harmonicMeanSpeed="0.28" length="5.00" nVehEntered="0"/>
-    <interval begin="659.00" end="660.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="660.00" end="661.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="661.00" end="662.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="73.49" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="658.00" end="659.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="659.00" end="660.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="660.00" end="661.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="661.00" end="662.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="662.00" end="663.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="663.00" end="664.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="664.00" end="665.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="20.67" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="663.00" end="664.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="664.00" end="665.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="665.00" end="666.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="666.00" end="667.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="667.00" end="668.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -705,8 +705,8 @@
     <interval begin="672.00" end="673.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="673.00" end="674.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="674.00" end="675.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="675.00" end="676.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="676.00" end="677.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="675.00" end="676.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="18.89" speed="0.12" harmonicMeanSpeed="0.12" length="5.00" nVehEntered="0"/>
+    <interval begin="676.00" end="677.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="4.05" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="677.00" end="678.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="678.00" end="679.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="679.00" end="680.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -732,19 +732,19 @@
     <interval begin="699.00" end="700.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="700.00" end="701.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="701.00" end="702.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="702.00" end="703.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="61.76" speed="0.13" harmonicMeanSpeed="0.13" length="5.00" nVehEntered="0"/>
-    <interval begin="703.00" end="704.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="704.00" end="705.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="705.00" end="706.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="706.00" end="707.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="702.00" end="703.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="703.00" end="704.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="704.00" end="705.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="705.00" end="706.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="706.00" end="707.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="17.97" speed="0.17" harmonicMeanSpeed="0.17" length="5.00" nVehEntered="0"/>
     <interval begin="707.00" end="708.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="708.00" end="709.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="709.00" end="710.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="14.21" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
-    <interval begin="710.00" end="711.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="711.00" end="712.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="712.00" end="713.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="713.00" end="714.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="714.00" end="715.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="709.00" end="710.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="710.00" end="711.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="711.00" end="712.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="712.00" end="713.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="713.00" end="714.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="714.00" end="715.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="89.56" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="715.00" end="716.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="716.00" end="717.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="717.00" end="718.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -1011,9 +1011,9 @@
     <interval begin="978.00" end="979.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="979.00" end="980.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="980.00" end="981.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="981.00" end="982.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="40.43" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="982.00" end="983.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="983.00" end="984.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="41.26" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="981.00" end="982.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="982.00" end="983.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="983.00" end="984.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="984.00" end="985.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="985.00" end="986.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="986.00" end="987.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -1061,16 +1061,16 @@
     <interval begin="1028.00" end="1029.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1029.00" end="1030.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1030.00" end="1031.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1031.00" end="1032.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1032.00" end="1033.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1033.00" end="1034.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1031.00" end="1032.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="34.36" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="1032.00" end="1033.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1033.00" end="1034.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="67.38" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="1034.00" end="1035.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1035.00" end="1036.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1036.00" end="1037.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1037.00" end="1038.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1038.00" end="1039.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="11.60" speed="0.09" harmonicMeanSpeed="0.09" length="5.00" nVehEntered="0"/>
-    <interval begin="1039.00" end="1040.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1040.00" end="1041.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="96.65" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="1038.00" end="1039.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1039.00" end="1040.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1040.00" end="1041.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1041.00" end="1042.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1042.00" end="1043.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1043.00" end="1044.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -1367,14 +1367,14 @@
     <interval begin="1334.00" end="1335.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1335.00" end="1336.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1336.00" end="1337.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1337.00" end="1338.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1338.00" end="1339.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1339.00" end="1340.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1337.00" end="1338.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="35.68" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="1338.00" end="1339.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1339.00" end="1340.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="63.85" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="1340.00" end="1341.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1341.00" end="1342.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1342.00" end="1343.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1343.00" end="1344.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="10.99" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="1344.00" end="1345.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="15.44" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="1343.00" end="1344.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1344.00" end="1345.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1345.00" end="1346.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1346.00" end="1347.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1347.00" end="1348.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -1433,11 +1433,11 @@
     <interval begin="1400.00" end="1401.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1401.00" end="1402.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1402.00" end="1403.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1403.00" end="1404.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="12.90" speed="0.09" harmonicMeanSpeed="0.09" length="5.00" nVehEntered="0"/>
-    <interval begin="1404.00" end="1405.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="13.84" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="1403.00" end="1404.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1404.00" end="1405.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1405.00" end="1406.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1406.00" end="1407.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="11.52" speed="3.99" harmonicMeanSpeed="3.99" length="5.00" nVehEntered="0"/>
-    <interval begin="1407.00" end="1408.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="26.40" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="1406.00" end="1407.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1407.00" end="1408.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1408.00" end="1409.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1409.00" end="1410.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1410.00" end="1411.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -1688,9 +1688,9 @@
     <interval begin="1655.00" end="1656.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1656.00" end="1657.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1657.00" end="1658.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1658.00" end="1659.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1659.00" end="1660.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1660.00" end="1661.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1658.00" end="1659.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="8.66" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="1659.00" end="1660.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1660.00" end="1661.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="98.53" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="1661.00" end="1662.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1662.00" end="1663.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1663.00" end="1664.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -1733,9 +1733,9 @@
     <interval begin="1700.00" end="1701.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1701.00" end="1702.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1702.00" end="1703.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1703.00" end="1704.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="16.12" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="1704.00" end="1705.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1705.00" end="1706.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="62.68" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="1703.00" end="1704.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1704.00" end="1705.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1705.00" end="1706.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1706.00" end="1707.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1707.00" end="1708.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1708.00" end="1709.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -1993,9 +1993,9 @@
     <interval begin="1960.00" end="1961.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1961.00" end="1962.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1962.00" end="1963.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1963.00" end="1964.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1964.00" end="1965.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="1965.00" end="1966.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1963.00" end="1964.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="25.23" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="1964.00" end="1965.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="1965.00" end="1966.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="46.84" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="1966.00" end="1967.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1967.00" end="1968.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="1968.00" end="1969.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -2037,8 +2037,8 @@
     <interval begin="2004.00" end="2005.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2005.00" end="2006.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2006.00" end="2007.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2007.00" end="2008.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="4.16" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="2008.00" end="2009.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="7.74" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="2007.00" end="2008.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2008.00" end="2009.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2009.00" end="2010.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2010.00" end="2011.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2011.00" end="2012.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -2071,9 +2071,9 @@
     <interval begin="2038.00" end="2039.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2039.00" end="2040.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2040.00" end="2041.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2041.00" end="2042.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="24.03" speed="0.15" harmonicMeanSpeed="0.15" length="5.00" nVehEntered="0"/>
-    <interval begin="2042.00" end="2043.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2043.00" end="2044.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="50.38" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="2041.00" end="2042.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2042.00" end="2043.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2043.00" end="2044.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2044.00" end="2045.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2045.00" end="2046.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2046.00" end="2047.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -2300,8 +2300,8 @@
     <interval begin="2267.00" end="2268.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2268.00" end="2269.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2269.00" end="2270.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2270.00" end="2271.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2271.00" end="2272.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2270.00" end="2271.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="5.32" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="2271.00" end="2272.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="28.04" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="2272.00" end="2273.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2273.00" end="2274.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2274.00" end="2275.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -2377,9 +2377,9 @@
     <interval begin="2344.00" end="2345.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2345.00" end="2346.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2346.00" end="2347.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2347.00" end="2348.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="37.97" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="2348.00" end="2349.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2349.00" end="2350.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="23.88" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="2347.00" end="2348.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2348.00" end="2349.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2349.00" end="2350.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2350.00" end="2351.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2351.00" end="2352.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2352.00" end="2353.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -2408,9 +2408,9 @@
     <interval begin="2375.00" end="2376.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2376.00" end="2377.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2377.00" end="2378.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2378.00" end="2379.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2379.00" end="2380.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2380.00" end="2381.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2378.00" end="2379.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="63.33" speed="0.05" harmonicMeanSpeed="0.05" length="5.00" nVehEntered="0"/>
+    <interval begin="2379.00" end="2380.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2380.00" end="2381.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="1.44" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="2381.00" end="2382.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2382.00" end="2383.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2383.00" end="2384.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -2683,9 +2683,9 @@
     <interval begin="2650.00" end="2651.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2651.00" end="2652.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2652.00" end="2653.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2653.00" end="2654.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="28.15" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="2654.00" end="2655.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2655.00" end="2656.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="69.71" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="2653.00" end="2654.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2654.00" end="2655.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2655.00" end="2656.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2656.00" end="2657.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2657.00" end="2658.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2658.00" end="2659.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -2713,9 +2713,9 @@
     <interval begin="2680.00" end="2681.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2681.00" end="2682.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2682.00" end="2683.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2683.00" end="2684.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2684.00" end="2685.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2685.00" end="2686.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2683.00" end="2684.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="15.85" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="2684.00" end="2685.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2685.00" end="2686.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="60.26" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="2686.00" end="2687.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2687.00" end="2688.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2688.00" end="2689.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -2986,9 +2986,9 @@
     <interval begin="2953.00" end="2954.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2954.00" end="2955.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2955.00" end="2956.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2956.00" end="2957.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="2957.00" end="2958.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="3.67" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="2958.00" end="2959.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="19.65" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="2956.00" end="2957.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="32.90" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="2957.00" end="2958.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="2958.00" end="2959.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.40" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="2959.00" end="2960.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2960.00" end="2961.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="2961.00" end="2962.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -3291,9 +3291,9 @@
     <interval begin="3258.00" end="3259.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3259.00" end="3260.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3260.00" end="3261.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3261.00" end="3262.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="38.52" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="3261.00" end="3262.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="27.68" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
     <interval begin="3262.00" end="3263.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3263.00" end="3264.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="38.58" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="3263.00" end="3264.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="54.04" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="3264.00" end="3265.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3265.00" end="3266.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3266.00" end="3267.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -3596,10 +3596,10 @@
     <interval begin="3563.00" end="3564.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3564.00" end="3565.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3565.00" end="3566.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3566.00" end="3567.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3567.00" end="3568.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="28.55" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="3568.00" end="3569.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3569.00" end="3570.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="50.15" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="3566.00" end="3567.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="28.55" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="3567.00" end="3568.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="3568.00" end="3569.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="72.10" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="3569.00" end="3570.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3570.00" end="3571.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3571.00" end="3572.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3572.00" end="3573.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -3900,11 +3900,11 @@
     <interval begin="3867.00" end="3868.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3868.00" end="3869.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3869.00" end="3870.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3870.00" end="3871.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3871.00" end="3872.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3872.00" end="3873.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3873.00" end="3874.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="23.49" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="3874.00" end="3875.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="3.06" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="3870.00" end="3871.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="3.78" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="3871.00" end="3872.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="3872.00" end="3873.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="87.94" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="3873.00" end="3874.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="3874.00" end="3875.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3875.00" end="3876.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3876.00" end="3877.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3877.00" end="3878.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -3926,9 +3926,9 @@
     <interval begin="3893.00" end="3894.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3894.00" end="3895.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3895.00" end="3896.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3896.00" end="3897.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3897.00" end="3898.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="3898.00" end="3899.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="3896.00" end="3897.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="34.73" speed="0.21" harmonicMeanSpeed="0.21" length="5.00" nVehEntered="0"/>
+    <interval begin="3897.00" end="3898.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="3898.00" end="3899.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="51.22" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="3899.00" end="3900.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3900.00" end="3901.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="3901.00" end="3902.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -4209,9 +4209,9 @@
     <interval begin="4176.00" end="4177.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4177.00" end="4178.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4178.00" end="4179.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4179.00" end="4180.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="13.66" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="4180.00" end="4181.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4181.00" end="4182.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="82.90" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="4179.00" end="4180.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4180.00" end="4181.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4181.00" end="4182.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4182.00" end="4183.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4183.00" end="4184.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4184.00" end="4185.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -4231,9 +4231,9 @@
     <interval begin="4198.00" end="4199.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4199.00" end="4200.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4200.00" end="4201.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4201.00" end="4202.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4202.00" end="4203.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4203.00" end="4204.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4201.00" end="4202.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="22.13" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="4202.00" end="4203.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4203.00" end="4204.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="30.02" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="4204.00" end="4205.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4205.00" end="4206.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4206.00" end="4207.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -4515,8 +4515,8 @@
     <interval begin="4482.00" end="4483.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4483.00" end="4484.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4484.00" end="4485.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4485.00" end="4486.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="8.24" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="4486.00" end="4487.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="23.77" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="4485.00" end="4486.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4486.00" end="4487.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4487.00" end="4488.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4488.00" end="4489.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4489.00" end="4490.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -4720,9 +4720,9 @@
     <interval begin="4687.00" end="4688.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4688.00" end="4689.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4689.00" end="4690.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4690.00" end="4691.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4691.00" end="4692.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4692.00" end="4693.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4690.00" end="4691.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="10.81" speed="0.01" harmonicMeanSpeed="0.01" length="5.00" nVehEntered="0"/>
+    <interval begin="4691.00" end="4692.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4692.00" end="4693.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="48.52" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="4693.00" end="4694.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4694.00" end="4695.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4695.00" end="4696.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -4821,11 +4821,11 @@
     <interval begin="4788.00" end="4789.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4789.00" end="4790.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4790.00" end="4791.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4791.00" end="4792.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="13.04" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="4792.00" end="4793.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="18.21" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
-    <interval begin="4793.00" end="4794.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4794.00" end="4795.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="4795.00" end="4796.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4791.00" end="4792.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4792.00" end="4793.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4793.00" end="4794.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="40.83" speed="0.05" harmonicMeanSpeed="0.05" length="5.00" nVehEntered="0"/>
+    <interval begin="4794.00" end="4795.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="4795.00" end="4796.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="29.82" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="4796.00" end="4797.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4797.00" end="4798.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="4798.00" end="4799.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -5126,11 +5126,11 @@
     <interval begin="5093.00" end="5094.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5094.00" end="5095.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5095.00" end="5096.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5096.00" end="5097.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="9.51" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="5097.00" end="5098.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5098.00" end="5099.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="84.38" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
-    <interval begin="5099.00" end="5100.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5100.00" end="5101.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5096.00" end="5097.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5097.00" end="5098.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5098.00" end="5099.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5099.00" end="5100.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="4.87" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="5100.00" end="5101.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="30.51" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="5101.00" end="5102.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5102.00" end="5103.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5103.00" end="5104.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -5431,11 +5431,11 @@
     <interval begin="5398.00" end="5399.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5399.00" end="5400.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5400.00" end="5401.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5401.00" end="5402.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="3.77" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="5402.00" end="5403.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="27.81" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="5401.00" end="5402.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5402.00" end="5403.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5403.00" end="5404.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5404.00" end="5405.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5405.00" end="5406.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5404.00" end="5405.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="6.35" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="5405.00" end="5406.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="24.57" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="5406.00" end="5407.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5407.00" end="5408.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5408.00" end="5409.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -5661,9 +5661,9 @@
     <interval begin="5628.00" end="5629.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5629.00" end="5630.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5630.00" end="5631.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5631.00" end="5632.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="46.26" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="5632.00" end="5633.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5633.00" end="5634.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="39.25" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="5631.00" end="5632.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5632.00" end="5633.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5633.00" end="5634.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5634.00" end="5635.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5635.00" end="5636.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5636.00" end="5637.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -5738,8 +5738,8 @@
     <interval begin="5705.00" end="5706.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5706.00" end="5707.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5707.00" end="5708.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5708.00" end="5709.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5709.00" end="5710.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5708.00" end="5709.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="1.24" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="5709.00" end="5710.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="38.81" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="5710.00" end="5711.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5711.00" end="5712.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5712.00" end="5713.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -5966,9 +5966,9 @@
     <interval begin="5933.00" end="5934.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5934.00" end="5935.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5935.00" end="5936.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5936.00" end="5937.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="21.26" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="5937.00" end="5938.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="5938.00" end="5939.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="51.56" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="5936.00" end="5937.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5937.00" end="5938.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="5938.00" end="5939.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5939.00" end="5940.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5940.00" end="5941.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="5941.00" end="5942.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -6042,8 +6042,8 @@
     <interval begin="6009.00" end="6010.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6010.00" end="6011.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6011.00" end="6012.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6012.00" end="6013.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6013.00" end="6014.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6012.00" end="6013.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="15.84" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="6013.00" end="6014.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="15.59" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="6014.00" end="6015.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6015.00" end="6016.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6016.00" end="6017.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -6051,9 +6051,9 @@
     <interval begin="6018.00" end="6019.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6019.00" end="6020.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6020.00" end="6021.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6021.00" end="6022.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6022.00" end="6023.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6023.00" end="6024.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6021.00" end="6022.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="40.97" speed="0.66" harmonicMeanSpeed="0.66" length="5.00" nVehEntered="0"/>
+    <interval begin="6022.00" end="6023.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6023.00" end="6024.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="18.33" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="6024.00" end="6025.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6025.00" end="6026.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6026.00" end="6027.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -6272,8 +6272,8 @@
     <interval begin="6239.00" end="6240.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6240.00" end="6241.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6241.00" end="6242.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6242.00" end="6243.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="14.48" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="6243.00" end="6244.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="17.33" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="6242.00" end="6243.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6243.00" end="6244.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6244.00" end="6245.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6245.00" end="6246.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6246.00" end="6247.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -6317,10 +6317,10 @@
     <interval begin="6284.00" end="6285.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6285.00" end="6286.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6286.00" end="6287.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6287.00" end="6288.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6288.00" end="6289.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6289.00" end="6290.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6290.00" end="6291.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6287.00" end="6288.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="50.17" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="6288.00" end="6289.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6289.00" end="6290.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6290.00" end="6291.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="90.35" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="6291.00" end="6292.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6292.00" end="6293.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6293.00" end="6294.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -6576,11 +6576,11 @@
     <interval begin="6543.00" end="6544.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6544.00" end="6545.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6545.00" end="6546.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6546.00" end="6547.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="12.01" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="6547.00" end="6548.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6548.00" end="6549.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="83.02" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
-    <interval begin="6549.00" end="6550.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="15.81" speed="5.06" harmonicMeanSpeed="5.06" length="5.00" nVehEntered="0"/>
-    <interval begin="6550.00" end="6551.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="8.76" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="6546.00" end="6547.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6547.00" end="6548.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6548.00" end="6549.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6549.00" end="6550.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6550.00" end="6551.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6551.00" end="6552.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6552.00" end="6553.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6553.00" end="6554.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -6624,9 +6624,9 @@
     <interval begin="6591.00" end="6592.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6592.00" end="6593.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6593.00" end="6594.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6594.00" end="6595.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6595.00" end="6596.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6596.00" end="6597.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6594.00" end="6595.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="34.75" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="6595.00" end="6596.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6596.00" end="6597.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="24.45" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="6597.00" end="6598.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6598.00" end="6599.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6599.00" end="6600.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -6884,9 +6884,9 @@
     <interval begin="6851.00" end="6852.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6852.00" end="6853.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6853.00" end="6854.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6854.00" end="6855.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="44.28" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="6855.00" end="6856.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6856.00" end="6857.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="46.46" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="6854.00" end="6855.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6855.00" end="6856.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6856.00" end="6857.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6857.00" end="6858.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6858.00" end="6859.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6859.00" end="6860.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -6989,9 +6989,9 @@
     <interval begin="6956.00" end="6957.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6957.00" end="6958.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6958.00" end="6959.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6959.00" end="6960.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6960.00" end="6961.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="6961.00" end="6962.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6959.00" end="6960.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="18.75" speed="0.01" harmonicMeanSpeed="0.01" length="5.00" nVehEntered="0"/>
+    <interval begin="6960.00" end="6961.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="6961.00" end="6962.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="98.59" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="6962.00" end="6963.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6963.00" end="6964.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="6964.00" end="6965.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -7189,9 +7189,9 @@
     <interval begin="7156.00" end="7157.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7157.00" end="7158.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7158.00" end="7159.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7159.00" end="7160.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="21.02" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="7160.00" end="7161.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7161.00" end="7162.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="71.64" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="7159.00" end="7160.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7160.00" end="7161.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7161.00" end="7162.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7162.00" end="7163.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7163.00" end="7164.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7164.00" end="7165.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -7453,9 +7453,9 @@
     <interval begin="7420.00" end="7421.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7421.00" end="7422.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7422.00" end="7423.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7423.00" end="7424.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7424.00" end="7425.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7425.00" end="7426.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7423.00" end="7424.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="8.65" speed="0.01" harmonicMeanSpeed="0.01" length="5.00" nVehEntered="0"/>
+    <interval begin="7424.00" end="7425.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7425.00" end="7426.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="80.30" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="7426.00" end="7427.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7427.00" end="7428.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7428.00" end="7429.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -7487,9 +7487,9 @@
     <interval begin="7454.00" end="7455.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7455.00" end="7456.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7456.00" end="7457.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7457.00" end="7458.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="31.73" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="7458.00" end="7459.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7459.00" end="7460.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="65.28" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="7457.00" end="7458.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7458.00" end="7459.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7459.00" end="7460.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7460.00" end="7461.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7461.00" end="7462.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7462.00" end="7463.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -7757,9 +7757,9 @@
     <interval begin="7724.00" end="7725.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7725.00" end="7726.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7726.00" end="7727.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7727.00" end="7728.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7728.00" end="7729.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7729.00" end="7730.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7727.00" end="7728.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="7.90" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="7728.00" end="7729.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7729.00" end="7730.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="65.44" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="7730.00" end="7731.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7731.00" end="7732.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7732.00" end="7733.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -7790,9 +7790,9 @@
     <interval begin="7757.00" end="7758.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7758.00" end="7759.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7759.00" end="7760.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7760.00" end="7761.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="26.66" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="7761.00" end="7762.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7762.00" end="7763.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="61.14" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="7760.00" end="7761.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7761.00" end="7762.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7762.00" end="7763.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7763.00" end="7764.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7764.00" end="7765.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7765.00" end="7766.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -7835,9 +7835,9 @@
     <interval begin="7802.00" end="7803.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7803.00" end="7804.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7804.00" end="7805.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7805.00" end="7806.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7806.00" end="7807.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="7807.00" end="7808.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7805.00" end="7806.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="25.26" speed="0.07" harmonicMeanSpeed="0.07" length="5.00" nVehEntered="0"/>
+    <interval begin="7806.00" end="7807.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="7807.00" end="7808.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="59.44" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="7808.00" end="7809.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7809.00" end="7810.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="7810.00" end="7811.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -8094,9 +8094,9 @@
     <interval begin="8061.00" end="8062.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8062.00" end="8063.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8063.00" end="8064.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8064.00" end="8065.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="18.22" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="8065.00" end="8066.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8066.00" end="8067.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="65.52" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="8064.00" end="8065.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8065.00" end="8066.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8066.00" end="8067.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8067.00" end="8068.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8068.00" end="8069.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8069.00" end="8070.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -8124,9 +8124,9 @@
     <interval begin="8091.00" end="8092.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8092.00" end="8093.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8093.00" end="8094.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8094.00" end="8095.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8095.00" end="8096.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8096.00" end="8097.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8094.00" end="8095.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="40.94" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="8095.00" end="8096.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8096.00" end="8097.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="47.56" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="8097.00" end="8098.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8098.00" end="8099.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8099.00" end="8100.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -8396,9 +8396,9 @@
     <interval begin="8363.00" end="8364.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8364.00" end="8365.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8365.00" end="8366.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8366.00" end="8367.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="47.24" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="8367.00" end="8368.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8368.00" end="8369.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="26.70" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="8366.00" end="8367.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8367.00" end="8368.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8368.00" end="8369.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8369.00" end="8370.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8370.00" end="8371.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8371.00" end="8372.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -8430,9 +8430,9 @@
     <interval begin="8397.00" end="8398.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8398.00" end="8399.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8399.00" end="8400.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8400.00" end="8401.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8401.00" end="8402.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8402.00" end="8403.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8400.00" end="8401.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="46.70" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="8401.00" end="8402.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8402.00" end="8403.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="44.95" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="8403.00" end="8404.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8404.00" end="8405.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8405.00" end="8406.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -8702,9 +8702,9 @@
     <interval begin="8669.00" end="8670.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8670.00" end="8671.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8671.00" end="8672.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8672.00" end="8673.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="37.93" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="8673.00" end="8674.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8674.00" end="8675.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="49.79" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="8672.00" end="8673.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8673.00" end="8674.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8674.00" end="8675.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8675.00" end="8676.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8676.00" end="8677.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8677.00" end="8678.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -8733,12 +8733,12 @@
     <interval begin="8700.00" end="8701.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8701.00" end="8702.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8702.00" end="8703.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8703.00" end="8704.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8704.00" end="8705.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8705.00" end="8706.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8706.00" end="8707.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8707.00" end="8708.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8708.00" end="8709.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8703.00" end="8704.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="38.39" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="8704.00" end="8705.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8705.00" end="8706.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="89.96" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="8706.00" end="8707.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="8.51" speed="5.08" harmonicMeanSpeed="5.08" length="5.00" nVehEntered="0"/>
+    <interval begin="8707.00" end="8708.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8708.00" end="8709.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="73.85" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="8709.00" end="8710.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8710.00" end="8711.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8711.00" end="8712.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -9007,8 +9007,8 @@
     <interval begin="8974.00" end="8975.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8975.00" end="8976.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8976.00" end="8977.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="8977.00" end="8978.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="14.71" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="8978.00" end="8979.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.13" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="8977.00" end="8978.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="8978.00" end="8979.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8979.00" end="8980.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8980.00" end="8981.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8981.00" end="8982.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -9030,9 +9030,9 @@
     <interval begin="8997.00" end="8998.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8998.00" end="8999.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="8999.00" end="9000.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9000.00" end="9001.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="41.39" speed="0.23" harmonicMeanSpeed="0.23" length="5.00" nVehEntered="0"/>
-    <interval begin="9001.00" end="9002.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9002.00" end="9003.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="41.17" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="9000.00" end="9001.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9001.00" end="9002.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9002.00" end="9003.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9003.00" end="9004.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9004.00" end="9005.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9005.00" end="9006.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -9042,8 +9042,8 @@
     <interval begin="9009.00" end="9010.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9010.00" end="9011.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9011.00" end="9012.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9012.00" end="9013.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9013.00" end="9014.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9012.00" end="9013.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="8.09" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="9013.00" end="9014.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.08" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="9014.00" end="9015.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9015.00" end="9016.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9016.00" end="9017.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -9330,9 +9330,9 @@
     <interval begin="9297.00" end="9298.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9298.00" end="9299.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9299.00" end="9300.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9300.00" end="9301.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="49.04" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="9301.00" end="9302.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9302.00" end="9303.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="46.58" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="9300.00" end="9301.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9301.00" end="9302.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9302.00" end="9303.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9303.00" end="9304.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9304.00" end="9305.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9305.00" end="9306.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -9340,8 +9340,8 @@
     <interval begin="9307.00" end="9308.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9308.00" end="9309.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9309.00" end="9310.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9310.00" end="9311.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9311.00" end="9312.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9310.00" end="9311.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="28.08" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="9311.00" end="9312.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.84" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="9312.00" end="9313.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9313.00" end="9314.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9314.00" end="9315.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -9636,16 +9636,16 @@
     <interval begin="9603.00" end="9604.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9604.00" end="9605.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9605.00" end="9606.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9606.00" end="9607.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="26.31" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="9607.00" end="9608.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9608.00" end="9609.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="31.96" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="9606.00" end="9607.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9607.00" end="9608.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9608.00" end="9609.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9609.00" end="9610.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9610.00" end="9611.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9611.00" end="9612.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9612.00" end="9613.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9613.00" end="9614.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9614.00" end="9615.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9615.00" end="9616.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9614.00" end="9615.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="12.07" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="9615.00" end="9616.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="10.75" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="9616.00" end="9617.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9617.00" end="9618.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9618.00" end="9619.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -9942,16 +9942,16 @@
     <interval begin="9909.00" end="9910.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9910.00" end="9911.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9911.00" end="9912.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9912.00" end="9913.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="19.36" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
-    <interval begin="9913.00" end="9914.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="6.62" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
+    <interval begin="9912.00" end="9913.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9913.00" end="9914.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9914.00" end="9915.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9915.00" end="9916.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9916.00" end="9917.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9917.00" end="9918.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9918.00" end="9919.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9919.00" end="9920.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9920.00" end="9921.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9921.00" end="9922.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9919.00" end="9920.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="44.54" speed="0.02" harmonicMeanSpeed="0.02" length="5.00" nVehEntered="0"/>
+    <interval begin="9920.00" end="9921.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9921.00" end="9922.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="58.39" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="9922.00" end="9923.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9923.00" end="9924.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9924.00" end="9925.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
@@ -9974,9 +9974,9 @@
     <interval begin="9941.00" end="9942.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9942.00" end="9943.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9943.00" end="9944.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9944.00" end="9945.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9945.00" end="9946.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
-    <interval begin="9946.00" end="9947.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9944.00" end="9945.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="1" flow="3600.00" occupancy="30.86" speed="0.22" harmonicMeanSpeed="0.22" length="5.00" nVehEntered="0"/>
+    <interval begin="9945.00" end="9946.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="9946.00" end="9947.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="61.04" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="1"/>
     <interval begin="9947.00" end="9948.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9948.00" end="9949.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
     <interval begin="9949.00" end="9950.00" id="A1_E1_A2A1_1_HOR_LEFT_1" nVehContrib="0" flow="0.00" occupancy="100.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>

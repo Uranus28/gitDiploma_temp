@@ -10,7 +10,7 @@
       <end value="10000" />
     </time>
     <output>
-      <fcd-output value="gridsData/default/fazes_g30r_30/dataFor_1000_vehicles/grid.output1000.xml" />
+      <fcd-output value="gridsData/predict/fazes_g30r_30/dataFor_1000_vehicles/grid.output1000.xml" />
     </output>
 
 </sumoConfiguration>
